@@ -40,6 +40,7 @@ npm run build
 | - - - vendor.min.js
 | - - img
 | - - fonts
+| - index.html
 | - src
 | - - assets
 | - - - css
@@ -59,9 +60,9 @@ npm run build
 | - - - img
 | - - - svg
 | - - js
-| - - _ index.js
+| - - - index.js
 | - index.js (Entrypoint)
-| index.htm
+| - index.html
 | package.json
 | postcss.config.js
 ```
